@@ -1,0 +1,4 @@
+streamlit
+PyPDF2
+langchain>=0.0.305
+boto3>=1.28.57
